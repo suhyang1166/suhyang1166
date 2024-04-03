@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm SUHYANG</h1>
-<h3 align="center">🌱</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SuHyang's%20GitHub%20🌱%20&animation=twinkling&fontSize=35&fontAlignY=35&fontAlign=65&height=250"/>
+</div>
 
 
 <br>
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23E79CC8&title_bg=%23A97491&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+</div>
+<br>
+
+
 
 <h3 align="center">✨ Stack ✨</h3>
 <div align="center">
@@ -40,3 +47,4 @@
 </div>
 
 <br>
+
